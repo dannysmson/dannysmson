@@ -9,10 +9,6 @@
 ![dannysmson's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannysmson&theme=radical&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dannysmson)](https://solved.ac/dannysmson)
 
-### 📮 Contacts
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logoColor=white&link=mailto:dannysmson@naver.com)](mailto:dannysmson@naver.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dannysmson@gmail.com)](mailto:dannysmson@gmail.com)
-
 <!--
 **dannysmson/dannysmson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
